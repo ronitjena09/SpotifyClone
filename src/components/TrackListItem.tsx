@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
         padding: 5,
         flexDirection: 'row',
         alignItems: 'center',
-        width: '100%'
+        width: '93%'
     },
 
     title: {
